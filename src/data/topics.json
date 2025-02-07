@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "JLPT N1"
+  },
+  {
+    "id": 2,
+    "title": "JLPT N2"
+  },
+  {
+    "id": 3,
+    "title": "JLPT N3"
+  },
+  {
+    "id": 4,
+    "title": "JLPT N4"
+  },
+  {
+    "id": 5,
+    "title": "JLPT N5"
+  },
+  {
+    "id": 6,
+    "title": "Kanji Practice"
+  },
+  {
+    "id": 7,
+    "title": "Grammar Patterns"
+  },
+  {
+    "id": 8,
+    "title": "Vocabulary Builder"
+  },
+  {
+    "id": 9,
+    "title": "Keigo (Honorific Language)"
+  },
+  {
+    "id": 10,
+    "title": "Japanese Idioms & Expressions"
+  },
+  {
+    "id": 11,
+    "title": "Business Japanese"
+  },
+  {
+    "id": 12,
+    "title": "Daily Conversation"
+  },
+  {
+    "id": 13,
+    "title": "Listening Practice"
+  },
+  {
+    "id": 14,
+    "title": "Reading Comprehension"
+  },
+  {
+    "id": 15,
+    "title": "Writing Practice"
+  },
+  {
+    "id": 16,
+    "title": "Anime & Manga Vocabulary"
+  },
+  {
+    "id": 17,
+    "title": "Japanese Slang & Casual Speech"
+  },
+  {
+    "id": 18,
+    "title": "Onomatopoeia in Japanese"
+  },
+  {
+    "id": 19,
+    "title": "Japanese Culture & Traditions"
+  },
+  {
+    "id": 20,
+    "title": "Pronunciation & Accent Training"
+  }
+]

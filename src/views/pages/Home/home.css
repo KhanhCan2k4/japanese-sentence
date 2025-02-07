@@ -1,0 +1,29 @@
+.home-page .card {
+  margin: 20px 0;
+}
+
+.home-page .buttons,
+.home-page .levels {
+  margin-top: 10px;
+}
+
+.home-page .buttons .cute-toggle {
+  padding: 10px;
+}
+
+.home-page .content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  transition: 2s ease-in-out;
+}
+
+.home-page span {
+  font-size: 14px;
+  color: var(--color-primary);
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
