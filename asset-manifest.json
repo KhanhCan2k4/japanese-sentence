@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/japanese-sentence/static/css/main.a7c30b2c.css",
+    "main.js": "/japanese-sentence/static/js/main.ffdd7d9d.js",
+    "index.html": "/japanese-sentence/index.html",
+    "main.a7c30b2c.css.map": "/japanese-sentence/static/css/main.a7c30b2c.css.map",
+    "main.ffdd7d9d.js.map": "/japanese-sentence/static/js/main.ffdd7d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c30b2c.css",
+    "static/js/main.ffdd7d9d.js"
+  ]
+}
